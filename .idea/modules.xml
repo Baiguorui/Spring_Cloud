@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/06-config-server-config-client/config-client/config-client.iml" filepath="$PROJECT_DIR$/06-config-server-config-client/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-config-server-config-client-eureka/config-client/config-client (1).iml" filepath="$PROJECT_DIR$/07-config-server-config-client-eureka/config-client/config-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-spring-cloud-bus/config-client/config-client (2).iml" filepath="$PROJECT_DIR$/08-spring-cloud-bus/config-client/config-client (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-config-server-config-client/config-server/config-server.iml" filepath="$PROJECT_DIR$/06-config-server-config-client/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-config-server-config-client-eureka/config-server/config-server (1).iml" filepath="$PROJECT_DIR$/07-config-server-config-client-eureka/config-server/config-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-spring-cloud-bus/config-server/config-server (2).iml" filepath="$PROJECT_DIR$/08-spring-cloud-bus/config-server/config-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-eureka/eureka/eureka.iml" filepath="$PROJECT_DIR$/01-eureka/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-eureka-hi/eureka/eureka (1).iml" filepath="$PROJECT_DIR$/02-eureka-hi/eureka/eureka (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-eureka-ha-eureka-hi-ha/eureka/eureka (2).iml" filepath="$PROJECT_DIR$/03-eureka-ha-eureka-hi-ha/eureka/eureka (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-servier-feign/eureka/eureka (3).iml" filepath="$PROJECT_DIR$/04-servier-feign/eureka/eureka (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-hystrix-dashboard-turbine/eureka/eureka (4).iml" filepath="$PROJECT_DIR$/05-hystrix-dashboard-turbine/eureka/eureka (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-config-server-config-client/eureka/eureka (5).iml" filepath="$PROJECT_DIR$/06-config-server-config-client/eureka/eureka (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-config-server-config-client-eureka/eureka/eureka (6).iml" filepath="$PROJECT_DIR$/07-config-server-config-client-eureka/eureka/eureka (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-spring-cloud-bus/eureka/eureka (7).iml" filepath="$PROJECT_DIR$/08-spring-cloud-bus/eureka/eureka (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-spring-cloud-zuul/eureka/eureka (8).iml" filepath="$PROJECT_DIR$/09-spring-cloud-zuul/eureka/eureka (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-spring-cloud-sleuth-zipkin/eureka/eureka (9).iml" filepath="$PROJECT_DIR$/10-spring-cloud-sleuth-zipkin/eureka/eureka (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-eureka-ha-eureka-hi-ha/eureka-ha/eureka-ha.iml" filepath="$PROJECT_DIR$/03-eureka-ha-eureka-hi-ha/eureka-ha/eureka-ha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-servier-feign/eureka-ha/eureka-ha (1).iml" filepath="$PROJECT_DIR$/04-servier-feign/eureka-ha/eureka-ha (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-hystrix-dashboard-turbine/eureka-ha/eureka-ha (2).iml" filepath="$PROJECT_DIR$/05-hystrix-dashboard-turbine/eureka-ha/eureka-ha (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-eureka-ha-eureka-hi-ha/eureka-hi/eureka-hi.iml" filepath="$PROJECT_DIR$/03-eureka-ha-eureka-hi-ha/eureka-hi/eureka-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-servier-feign/eureka-hi/eureka-hi (1).iml" filepath="$PROJECT_DIR$/04-servier-feign/eureka-hi/eureka-hi (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-hystrix-dashboard-turbine/eureka-hi/eureka-hi (2).iml" filepath="$PROJECT_DIR$/05-hystrix-dashboard-turbine/eureka-hi/eureka-hi (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-spring-cloud-zuul/eureka-hi/eureka-hi (3).iml" filepath="$PROJECT_DIR$/09-spring-cloud-zuul/eureka-hi/eureka-hi (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-spring-cloud-sleuth-zipkin/eureka-hi/eureka-hi (4).iml" filepath="$PROJECT_DIR$/10-spring-cloud-sleuth-zipkin/eureka-hi/eureka-hi (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-eureka-ha-eureka-hi-ha/eureka-hi-ha/eureka-hi-ha.iml" filepath="$PROJECT_DIR$/03-eureka-ha-eureka-hi-ha/eureka-hi-ha/eureka-hi-ha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-servier-feign/eureka-hi-ha/eureka-hi-ha (1).iml" filepath="$PROJECT_DIR$/04-servier-feign/eureka-hi-ha/eureka-hi-ha (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-hystrix-dashboard-turbine/eureka-hi-ha/eureka-hi-ha (2).iml" filepath="$PROJECT_DIR$/05-hystrix-dashboard-turbine/eureka-hi-ha/eureka-hi-ha (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-eureka-hi/eureka-hi/eureka-server-ha.iml" filepath="$PROJECT_DIR$/02-eureka-hi/eureka-hi/eureka-server-ha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-hystrix-dashboard-turbine/hystrix-dashboard-turbine/hystrix-dashboard-turbine.iml" filepath="$PROJECT_DIR$/05-hystrix-dashboard-turbine/hystrix-dashboard-turbine/hystrix-dashboard-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-spring-cloud-sleuth-zipkin/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/10-spring-cloud-sleuth-zipkin/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-servier-feign/service-feign/service-feign (1).iml" filepath="$PROJECT_DIR$/04-servier-feign/service-feign/service-feign (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-hystrix-dashboard-turbine/service-feign/service-feign (2).iml" filepath="$PROJECT_DIR$/05-hystrix-dashboard-turbine/service-feign/service-feign (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-eureka/springcloud.iml" filepath="$PROJECT_DIR$/01-eureka/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-eureka-hi/springcloud (1).iml" filepath="$PROJECT_DIR$/02-eureka-hi/springcloud (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-eureka-ha-eureka-hi-ha/springcloud (2).iml" filepath="$PROJECT_DIR$/03-eureka-ha-eureka-hi-ha/springcloud (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-servier-feign/springcloud (3).iml" filepath="$PROJECT_DIR$/04-servier-feign/springcloud (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-hystrix-dashboard-turbine/springcloud (4).iml" filepath="$PROJECT_DIR$/05-hystrix-dashboard-turbine/springcloud (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-config-server-config-client/springcloud (5).iml" filepath="$PROJECT_DIR$/06-config-server-config-client/springcloud (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-config-server-config-client-eureka/springcloud (6).iml" filepath="$PROJECT_DIR$/07-config-server-config-client-eureka/springcloud (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-spring-cloud-bus/springcloud (7).iml" filepath="$PROJECT_DIR$/08-spring-cloud-bus/springcloud (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-spring-cloud-zuul/springcloud (8).iml" filepath="$PROJECT_DIR$/09-spring-cloud-zuul/springcloud (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-spring-cloud-sleuth-zipkin/springcloud (9).iml" filepath="$PROJECT_DIR$/10-spring-cloud-sleuth-zipkin/springcloud (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud_for_noob.iml" filepath="$PROJECT_DIR$/.idea/springcloud_for_noob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-spring-cloud-zuul/zuul/zuul.iml" filepath="$PROJECT_DIR$/09-spring-cloud-zuul/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
